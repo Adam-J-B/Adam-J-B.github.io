@@ -1,0 +1,50 @@
+html, body, div, h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  font:18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+#top {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+#menu {
+  font-family: Courier New, monospace;
+}
+
+#middle {
+  margin: 10px;
+  border: 0px;
+  padding: 0px;
+}
+
+#bottom {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0 0 0 8px;
+  margin: 8px 0 8px 0;
+}
+
+a {
+  color: #19bdbf;
+  background-color: transparent;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  /* border: solid 1px; */
+  width: 851px;
+}
